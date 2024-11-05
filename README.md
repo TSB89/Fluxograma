@@ -1,11 +1,12 @@
 <h1 align="center">217260 - ELABORAR DOCUMENTO AVALIATIVO DE USO DE TI EM ETAPAS DE FLUXO DE INFORMAÇÃO</h1>
 
-<h3 align="center">Descrição do Projeto</h3>
+<h3 align="center">FABRICAÇÃO DE PNEUS</h3>
 
+<h5 align="left">Este repositório documenta e organiza o processo de fabricação de pneus, fornecendo uma visão sistemática e detalhada de cada etapa envolvida. Ele inclui modelos e fluxos que demonstram como as atividades são realizadas e como a informação circula entre diferentes áreas organizacionais da fábrica.</h5>
 
-<h5 align="left">Este repositório documenta e organiza um processo de negócio detalhado, fornecendo uma visão completa e sistemática de cada etapa envolvida. Ele inclui modelos e fluxos que demonstram como as atividades são realizadas e como a informação circula entre diferentes ambientes organizacionais.</h5>
+<p align="center"><img src="https://github.com/user-attachments/assets/1488530f-15ba-422d-b898-c185e2ab7f6c" width=600></p>
 
-<h3 align="center">Conteúdo do Projeto</h3>
+<h3 align="center">CONTEÚDO DO PROJETO</h3>
 
 <h4 align="center">1. Modelo Narrativo das Atividades do Processo de Negócio Selecionado</h4>
 <h5 align="left">Este modelo apresenta uma descrição detalhada das atividades, permitindo uma visão abrangente das ações executadas, de seus objetivos e da sequência lógica do processo. Cada etapa é narrada para destacar os elementos essenciais e seu papel dentro do fluxo geral.</h5>
@@ -27,5 +28,5 @@ Esta tabela detalha o caminho da informação entre os diferentes ambientes orga
 
 ##
 
-<h3 align="center">Objetivos e Benefícios</h3>
+<h3 align="center">OBJETIVOS E BENEFÍCIOS</h3>
 O objetivo principal deste projeto é fornecer uma estrutura clara e compreensível do processo de negócio, facilitando a análise, a otimização e o entendimento de seu funcionamento. A documentação detalhada e organizada oferece uma base sólida para a tomada de decisões e a melhoria contínua dos processos empresariais.
